@@ -1,5 +1,5 @@
-baseurl = "https://doks.netlify.app/"
-canonifyURLs = false
+baseurl = "https://buildthebastion.org/"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true

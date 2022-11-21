@@ -1,1 +1,3 @@
-canonifyURLs = false
+baseurl = "https://buildthebastion.org/"
+canonifyURLs = true
+
