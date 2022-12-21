@@ -1,11 +1,14 @@
 - id: get-started
   translation: "Get Started"
 
+- id: explore-now
+  translation: "Explore Now"
+
 - id: on-this-page
   translation: "On this page"
 
 - id: search-text
-  translation: "Search docs..."
+  translation: "Search"
 
 - id: 404-title
   translation: "Page not found :("
